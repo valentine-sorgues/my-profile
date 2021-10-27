@@ -1,0 +1,113 @@
+
+
+#profildevalou{
+width: 200px;
+}
+
+
+
+
+h1 {
+color: palevioletred;
+	font-size: 40px;
+	font-family: 'Abril Fatface', cursive;
+}
+
+
+h2 {
+  color: darkslategrey;
+	font-size: 30px;
+	font-family: 'Bebas Neue', cursive;
+}
+
+
+
+body {
+background:#FFCBDD; 
+  color: rgb(30, 30, 30);
+	text-decoration: none;
+  font-weight: 500;
+   font-size: px;
+	line-height:;
+	letter-spacing: 2px;
+	font-family: 'Ubuntu', sans-serif;
+text-align: center;
+color: rgb(10, 10, 10);     /* Text color */
+background-image: url(images/background.jpg); 
+}
+
+
+a {
+  color: black;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: palevioletred;
+  text-decoration: none;
+}
+
+#profildevalou {
+	border-radius: 50%;
+}
+
+
+#logoaudencia{
+	width: 50px;
+}
+
+.pp {
+background: #e5989b;
+padding: 70px;
+margin: 100px;
+box-shadow: 0px 10px 30px;
+border-radius: 20px;
+}
+
+
+.ff {
+background: #e5989b;
+padding: 70px;
+margin: 100px;
+box-shadow: 0px 10px 30px;
+border-radius: 20px;
+}
+
+.gg {
+background: #e5989b;
+padding: 70px;
+margin: 100px;
+box-shadow: 0px 10px 30px;
+border-radius: 20px;
+}
+	
+
+.liste{
+	list-style: none;
+	padding-left: 0px;
+}
+
+.liste{
+	font-size: 50px;
+	color: rgb(230,230,230);
+}
+
+.liste i {
+	display: inline;
+	padding: 10px;
+}
+
+
+.vv {
+background: #e5989b;
+padding: 70px;
+margin: 100px;
+box-shadow: 0px 10px 30px;
+border-radius: 20px;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
